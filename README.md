@@ -15,7 +15,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
+- Windows 10 (22H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
@@ -42,7 +42,7 @@ Create the virtual machine for the domain controller DC-1 using Windows Server 2
 <img src="https://github.com/user-attachments/assets/48ad118e-83fc-48b0-9a38-614bd0d1f77f" height="50%" width="50%"/>
 </p>
 <p>
-Create the second VM (Client-1).
+Create the second VM (Client-1). We will be using Windows 10 Pro (22H2).
 </p>
 <br />
 
